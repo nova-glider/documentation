@@ -1,3 +1,4 @@
 # vitepress  gitignore file
 /node_modules
 /.vitepress
+!/.vitepress/config.mts
