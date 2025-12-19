@@ -12,6 +12,11 @@ export default defineConfig({
       { text: 'Self Host', link: '/self-host' }
     ],
 
+    docFooter: {
+      prev: 'Previous',
+      next: 'Next'
+    },
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/nova-glider' }
     ]

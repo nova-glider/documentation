@@ -1,5 +1,10 @@
 ---
 title: Self Host
+prev:
+  text: Introduction
+  link: introduction
+next: false
+  
 ---
 
 # Self Hosting NovaGlider
