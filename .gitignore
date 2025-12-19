@@ -2,3 +2,4 @@
 /node_modules
 /.vitepress/*
 !.vitepress/config.mts
+index.html
